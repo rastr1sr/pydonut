@@ -1,6 +1,10 @@
 # pydonut 🍩
 A one-line implementation of [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html) (by a1k0n) using an obfuscated Python format, along with a standard Python implementation.
 
+<p align="center">
+  <img src=".github/donut.gif" alt="Donut GIF" />
+</p>
+
 ## Overview
 `pydonut` includes two versions of the classic ASCII donut animation:
 1. **`donut.py`**: A straightforward Python implementation of the donut animation.
